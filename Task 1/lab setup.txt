@@ -1,0 +1,4 @@
+Task 1 : Lab Setup
+Set up a virtual machine on your computer
+(Virtual box / VMware) and Install Kali Linux
+in virtual machine.
