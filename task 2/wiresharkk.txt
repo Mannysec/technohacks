@@ -1,0 +1,7 @@
+Task 4 : Sniffing Attack using
+Wireshark
+Study and use the Wireshark packet analyzer
+tool and try to find ID and password of HTTP
+website
+(use given target website)
+Taget site : http://testphp.vulnweb.com/
