@@ -1,0 +1,4 @@
+Task 5 : Network Scanning
+Use a tool like Nmap to scan a network for
+open ports and vulnerable services.
+Taget site : http://testphp.vulnweb.com/
